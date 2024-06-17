@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { CiMenuBurger } from "react-icons/ci";
+//@ts-ignore
 import { isClickedAtom } from "../atoms/atoms.js";
 import { useSetRecoilState, useRecoilValue } from "recoil";
 
